@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1664549538720
+  login: 1664559608205
+money: '0'
+logoutlocation:
+  world: 683e2ab4-1ebd-4ff3-a33f-f647e2602298
+  world-name: world
+  x: 0.07820396217764194
+  y: 146.0
+  z: 5.699999988079071
+  yaw: 13.116990089416504
+  pitch: 22.611225128173828
+last-account-name: keaidehuangpi
+lastlocation:
+  world: 683e2ab4-1ebd-4ff3-a33f-f647e2602298
+  world-name: world
+  x: -31.576485263110353
+  y: 112.0
+  z: -13.869090835770036
+  yaw: -107.18472290039062
+  pitch: -90.0

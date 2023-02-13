@@ -1,0 +1,65 @@
+use_chinese: false
+antistealDiamond: true
+opbypassgamemode: false
+shop:
+  price:
+    Golden Apple: 16
+    Cow Bucket: 10
+    Squid Potion of Absorption II: 30
+    Golem Potion of Regeneration: 50
+    Diamond: 100
+    Iron Helmet: 10
+    Iron CHESTPLATE: 10
+    Iron Boots: 10
+    Iron LEGGINGS: 10
+    Iron Chestplate: 10
+    Iron Leggings: 10
+    Phoenix's Tears of Regeneration III (3 Hearts / 4s): 20
+spawnloc:
+  red:
+  - -32.34131540016453
+  - 55.0
+  - 5.964393813584189
+  green:
+  - -33.655823147383124
+  - 55.0
+  - 6.920790248118408
+  blue:
+  - -33.655823147383124
+  - 55.0
+  - 6.920790248118408
+  yellow:
+  - -34.970330894601716
+  - 55.0
+  - 7.877186682652628
+coins:
+  NIUDONGDONG1: 60
+  keaidehuangpi: 6662
+  NIUDONGDONG2: 61
+  NIUDONGDONG3: 63
+  NIUDONGDONG4: 64
+  NIUDONGDONG5: 65
+  NIUDONGDONG6: 66
+  NIUDONGDONG7: 67
+  NIUDONGDONG8: 68
+  NIUDONGDONG9: 69
+  NIUDONGDONG10: 70
+  NIUDONGDONG11: 71
+  NIUDONGDONG12: 72
+  NIUDONGDONG13: 73
+  NIUDONGDONG14: 74
+  NIUDONGDONG15: 75
+  NIUDONGDONG16: 76
+  NIUDONGDONG17: 77
+  NIUDONGDONG18: 78
+  NIUDONGDONG19: 79
+  NIUDONGDONG20: 80
+  NIUDONGDONG21: 81
+  NIUDONGDONG22: 82
+  NIUDONGDONG23: 83
+  NIUDONGDONG24: 84
+  NIUDONGDONG25: 85
+break_reset_time: 60
+hbr_true_damage: 2.5
+useSwordName:
+  keaidehuangpi: Your sword
